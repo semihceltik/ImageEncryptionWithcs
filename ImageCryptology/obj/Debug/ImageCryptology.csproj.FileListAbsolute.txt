@@ -1,0 +1,11 @@
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\bin\Debug\ImageCryptology.exe.config
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\bin\Debug\ImageCryptology.exe
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\bin\Debug\ImageCryptology.pdb
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\obj\Debug\ImageCryptology.csproj.AssemblyReference.cache
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\obj\Debug\ImageCryptology.csproj.SuggestedBindingRedirects.cache
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\obj\Debug\ImageCryptology.Form1.resources
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\obj\Debug\ImageCryptology.Properties.Resources.resources
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\obj\Debug\ImageCryptology.csproj.GenerateResource.cache
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\obj\Debug\ImageCryptology.csproj.CoreCompileInputs.cache
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\obj\Debug\ImageCryptology.exe
+C:\Users\Swmih\source\repos\ImageCryptology\ImageCryptology\obj\Debug\ImageCryptology.pdb
